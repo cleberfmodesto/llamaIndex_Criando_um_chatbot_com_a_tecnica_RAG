@@ -1,5 +1,9 @@
 # llamaIndex_Criando_um_chatbot_com_a_tecnica_RAG
 
+<a href="https://colab.research.google.com/github/cleberfmodesto/llamaIndex_Criando_um_chatbot_com_a_tecnica_RAG/blob/main/Projeto_Final.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Abrir_no-Colab-F9AB00?labelColor=F9AB00&logo=googlecolab&logoColor=white" alt="Abrir no Colab"/></a>
+<a href="https://github.com/cleberfmodesto/llamaIndex_Criando_um_chatbot_com_a_tecnica_RAG/blob/main/Projeto_Final.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Abrir_no-GitHub-0969DA?labelColor=0969DA&logo=github&logoColor=white" alt="Abrir no GitHub"/></a>
+<a href="https://codespaces.new/cleberfmodesto/llamaIndex_Criando_um_chatbot_com_a_tecnica_RAG?ref=main" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Abrir_no-Codespaces-1F883D?labelColor=1F883D&logo=github&logoColor=white" alt="Abrir no Codespaces"/></a>
+
 Vamos dar início ao nosso projeto. Atuaremos para a loja Serenatto, que anteriormente era um bistrô e café físico. Eles decidiram expandir os negócios e criar uma página para vender cafés especiais torrados.
 
 Ao verificar a página deles, notaremos que eles vendem alguns grãos especiais, como Bourbon Vermelho, Bourbon Amarelo, um blend especial, Catuaí Amarelo, Geisha e YirgaCheffe.
