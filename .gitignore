@@ -13,3 +13,5 @@ build/
 .gradio/
 .ruff_cache/
 *.code-workspace
+chroma_db/
+
