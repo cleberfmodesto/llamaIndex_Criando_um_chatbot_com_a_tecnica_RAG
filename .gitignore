@@ -12,3 +12,4 @@ dist/
 build/
 .gradio/
 .ruff_cache/
+*.-workspace
